@@ -3,6 +3,6 @@
 /test_suite_analysis
 /node_modules
 coverage
-forum-api-webserser.pem
+forum-api-webserver.pem
 pakacge-lock.json
 config/database/test.json
